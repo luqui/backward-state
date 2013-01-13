@@ -2,7 +2,7 @@
 -- documentation, see http://haskell.org/cabal/users-guide/
 
 name:                backward-state
-version:             0.1.0.0
+version:             0.1.0.1
 synopsis:            A state monad that runs the state in reverse through the computation
 -- description:         
 homepage:            https://github.com/luqui/backward-state
