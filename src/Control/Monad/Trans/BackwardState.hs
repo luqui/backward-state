@@ -34,7 +34,7 @@ where
 
 import Control.Monad.Trans.Class (MonadTrans(..))
 import Control.Monad.IO.Class (MonadIO(..))
-import Control.Monad.Identity (Identity(..))
+import Data.Functor.Identity (Identity(..))
 import Control.Monad.Fix (MonadFix(..))
 import Control.Applicative (Applicative(..), Alternative(..))
 import Control.Monad (ap, MonadPlus(..), liftM)
